@@ -65,7 +65,3 @@
 * **【步骤 13：使用 Docker Compose 编排】**
     * **目标：** 一键启动整个应用（Go + 数据库 + 缓存）。
     * **任务：** 编写 `docker-compose.yml` 文件，定义三个服务：`ginance-app`（使用你的 Dockerfile）、`postgres-db`（使用官方镜像）、`redis-cache`（使用官方镜像）。
-
-
-这个新的路线图已经非常完整了。我已经用这个新版本**更新了你的笔记**（标题为：“个人资产看板项目 - 实现步骤 (V3 - 含 Redis & Docker)”）。
-http://googleusercontent.com/action_card_content/3
